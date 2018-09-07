@@ -2,7 +2,7 @@
 
 ## 方法：
 
-### init(option)
+### init(option)  初始话 fetch
 
 ######    option.URL   请求的地址
 ######    option.fetchBefore(opts)   请求前处理函数
